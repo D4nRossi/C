@@ -3,6 +3,8 @@
 
 int main(){
 
+    
+
     int age = 25;
     // o %d é de decimal
     printf("Você tem %d anos \n", age);
